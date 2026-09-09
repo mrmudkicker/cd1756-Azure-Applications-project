@@ -50,3 +50,29 @@ data outside the web application. I could use a bigger App Service plan, more
 instances, health checks, and better monitoring. If the application becomes
 much more complex and needs different background services, I could also
 consider containers in the future.
+
+### Project Evidence
+
+#### Deployed application
+
+![Deployed application](image/article-cms.png)
+
+#### Azure SQL Database
+
+![Azure SQL Database posts](image/sql-posts.png)
+
+#### Azure Blob Storage
+
+![Image stored in Blob Storage](image/blob-solution.png)
+
+#### URI redirect solution
+
+![Successful and failed login logs](image/uri-redirect-solution.png)
+
+#### GitHub Actions deployment
+
+![Successful GitHub Actions deployment](image/github-actions.png)
+
+#### Microsoft login
+
+![Microsoft authentication](image/microsoft-login.png)
