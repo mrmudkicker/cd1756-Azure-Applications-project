@@ -60,7 +60,7 @@ consider containers in the future.
 #### Azure SQL Database
 
 ![Azure SQL Database posts](image/sql-posts.png)
-
+![Azure SQL Database posts](image/sql-posts2.png)
 #### Azure Blob Storage
 
 ![Image stored in Blob Storage](image/blob-solution.png)
