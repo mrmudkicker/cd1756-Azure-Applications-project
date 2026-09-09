@@ -73,6 +73,6 @@ consider containers in the future.
 
 ![Successful GitHub Actions deployment](image/github-actions.png)
 
-#### Microsoft login
+#### Application login logs
 
-![Microsoft authentication](image/microsoft-login.png)
+![Successful and unsuccessful application login attempts](image/microsoft-login.png)
