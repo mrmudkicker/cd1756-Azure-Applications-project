@@ -67,7 +67,7 @@ consider containers in the future.
 
 #### URI redirect solution
 
-![Successful and failed login logs](image/uri-redirect-solution.png)
+![Successful and failed login logs](image/uri-redirects-solution.png)
 
 #### GitHub Actions deployment
 
